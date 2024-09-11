@@ -13,4 +13,4 @@ The purpose of this project is to showcase my ability to understand and analyse 
 - Git, for documenting my process and pushing work to Github.
 - Git Bash command line interface, for cloning the remote repository on my local computer and for creating and accessing folders and images for this project.
 
-##
+#
