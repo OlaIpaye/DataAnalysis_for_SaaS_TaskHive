@@ -28,4 +28,26 @@ After:
 
 ![pivot table in excel](<images/1.1 created pivot table to summarise supscription sold, for how much and avearge customer subscription each month.png>)
 
+- **Finding out how many sales per paying subscription:**
+  Adding the subscription type field to the pivot table allows me to explore the subscription model of the business and learn the reality of how TaskHive operates as a subscription model business.
+
+  Additionally, I wanted to explore how much on average TaskHive made per paying customers since they had a basic subscription type of non-paying customers too.
+
+  So I created a calculated field using this formula (= IFERROR('Sales Amount'/'Licenses Bought', 0)), which allowed me to handle the #DIV!0 error I encountered initially so any cell that would result in a division by zero error will show 0 instead of the error. **This helped me learn the average sales per paying subscription is £20.**
+
+  Before:
+  ![division by zero error handling in excel](<images/2. division by zero error handling.png>)
+
+  After:
+  ![using calculated field in pivot table in excel](<images/2. calculated average sales per paying subscription with calculated field tab.png>)
+
+* **Finding out subscription type with highest and lowest sales:**
+  The **Enterprise subscription type** has the highest sales of £318,600 as shown in the Sum of Sales Amount field and with 11,850 subscriptions bought as shown in the Sum of Licences Bought field. Whilst the **basic subscription type** has the lowest sales of £0 and with zero subscription bought too.
+
+  **Subscription type with highest sales for TaskHive:**
+  ![pivot table in excel](<images/2.2 subscription type with highest sales.png>)
+
+  **Subscription type with lowest sales for TaskHive:**
+  ![how to create pivot table in excel](<images/2.3 subscription type with zero sales.png>)
+
 ##
