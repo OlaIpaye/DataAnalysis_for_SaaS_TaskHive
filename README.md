@@ -2,7 +2,7 @@
 
 TaskHive is a fictional company that offers subscription to their online platform for project management.
 
-## Project Sumnmary
+## Project Summary
 
 The purpose of this project is to showcase my ability to understand and analyse a dataset using the exploratory data analysis(EDA) process.
 
