@@ -50,4 +50,17 @@ After:
   **Subscription type with lowest sales for TaskHive:**
   ![how to create pivot table in excel](<images/2.3 subscription type with zero sales.png>)
 
+To further investigate for more insights, using the pivot table report I decided to create seperate custom groups based on the "Subscription Type" and "Licences Bought" fields. Doing this allowed me to understand how different licence ranges, grouped into buckets, for paying customers contributed towards sales for TaskHive.
+
+This helped me to learn that Enterprise subscriptions is preferred by larger organizations, and Business and Premium subscriptions is popular among small to medium-sized businesses.
+
+**In the lower buckets(0-24) Premium subscriptions makes up a large portion of the sales for TaskHive, indicating that smaller teams or businesses may be opting for premium features.**
+
+**In the mid-tier buckets(25-49 and 50-74), Business subscriptions make up a significant portion of TaskHive's revenue.**
+
+**As expected, Enterprise subscriptions dominate the higher buckets, particularly in the 575-600 range, showing that large organizations are driving significant revenue for TaskHive's project management subscription model business.**
+
+After:
+![custom grouping pivot table in excel](<images/2.4 created custom groups in pivot table.png>)
+
 ##
