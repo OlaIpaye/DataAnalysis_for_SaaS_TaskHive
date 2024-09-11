@@ -39,7 +39,7 @@ After:
   ![division by zero error handling in excel](<images/2. division by zero error handling.png>)
 
   After:
-  ![using calculated field in pivot table in excel](<images/2. calculated average sales per paying subscription with calculated field tab.png>)
+  ![using calculated field in pivot table in excel](<images/2.1 calculated average sales per paying subscription with calculated field tab.png>)
 
 * **Finding out subscription type with highest and lowest sales:**
   The **Enterprise subscription type** has the highest sales of £318,600 as shown in the Sum of Sales Amount field and with 11,850 subscriptions bought as shown in the Sum of Licences Bought field. Whilst the **basic subscription type** has the lowest sales of £0 and with zero subscription bought too.
